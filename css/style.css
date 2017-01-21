@@ -1,0 +1,13 @@
+.wrapper {
+  text-align: center;
+  padding-top: 40vh;
+  margin: 0;
+}
+.title {
+  font-size: 36px;
+  color: darkblue;
+}
+.subtitle {
+  font-size: 18px;
+  font-style: italic;
+}
